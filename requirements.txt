@@ -1,8 +1,8 @@
-tensorflow-cpu==2.19.1
-opencv-python-headless
+tensorflow-cpu==2.17.1
+opencv-python-headless==4.8.0.76
 streamlit
 scikit-learn
 matplotlib
 seaborn
-numpy
+numpy==1.26.4
 Pillow
