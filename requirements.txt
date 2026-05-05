@@ -1,4 +1,4 @@
-tensorflow-cpu
+tensorflow-cpu==2.19.1
 opencv-python-headless
 streamlit
 scikit-learn
